@@ -8,7 +8,7 @@ from grafo.dijkstra import GrafoConDijkstra
 from estructuras.cola_de_prioridad import ColaDePrioridad
 from habilidades.entrenamiento import Entrenamiento
 
-#Prueba de todo lo visto:
+#Prueba de todo lo visto: #
 
 def main():
     # --- Parte 1: Creación de Personajes --- #
